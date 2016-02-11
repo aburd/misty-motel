@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/aburd/misty-motel/issues"
   },
-  "homepage": "https://github.com/aburd/misty-motel#readme"
+  "homepage": "https://github.com/aburd/misty-motel#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.2",
+    "gulp-uglifycss": "^1.0.5"
+  }
 }
