@@ -1,0 +1,36 @@
+{
+	"links":[
+		{
+			"name":"Arts and Music",
+			"href":"issue1/arts_and_music.html"
+		},
+		{
+			"name":"Arts and Music",
+			"href":"issue1/arts.html"
+		},
+		{
+			"name":"Biography",
+			"href":"issue1/biography.html"
+		},
+		{
+			"name":"Motherhood",
+			"href":"issue1/motherhood.html"
+		},
+		{
+			"name":"Our Sponsors",
+			"href":"issue1/sponsors.html"
+		},
+		{
+			"name":"Opinion",
+			"href":"issue1/opinion.html"
+		},
+		{
+			"name":"Space &amp; Astronauts",
+			"href":"issue1/space.html"
+		},
+		{
+			"name":"Spirituality",
+			"href":"issue1/spirituality.html"
+		}
+	]
+}

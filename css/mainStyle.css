@@ -1,24 +1,6 @@
-html, body {
-	background: none;
-	margin: 0;
-	padding: 0;
-}
-
-a {
-	color: #555;
-}
-
-a:hover {
-	color: #111;
-}
-
 #lang-bar {
 	float: right;
 	padding: 3px;
-}
-
-#banner img {
-	width: 100%;
 }
 
 #issues {
@@ -31,6 +13,10 @@ a:hover {
 	display: flex;
 }
 
+#banner img {
+	width: 100%;
+}
+
 .inner {
 	width: 90%;
 	margin: 0 auto;
@@ -38,13 +24,14 @@ a:hover {
 
 .issue {
 	display: inline-block;
-	width: 200px;
-	height: 350px;
-	margin: 50px 20px;
+	margin: 50px 5px;
 	flex-grow: 2;
-	text-align: center;
-	padding-top: 20px;
-	border: 1px solid black;	
+	text-align: center;	
+	width: 30%;
+}
+
+.issue img {
+	width: 100%;
 }
 
 .issue:hover {
@@ -57,7 +44,6 @@ a:hover {
 	}
 	.issue {
 		width: 80%;
-		height: 100px;
 	}
 }
 
