@@ -1,50 +1,6 @@
-.loading {
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	background: rgba(0,0,0,0.1);
-	text-align: center;
-}
-.loading img {
-	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
-}
-
-p.article {
-    text-align: left;
-    color: black;
-    font-size: 20px;
-    line-height: 30px;
-
-}
-
-h2.title {
-	font-weight: 400;
-	font-style: italic;
-	letter-spacing: 20px;
-	text-align: center;
-	font-size: 80px;
-	color: black;
-
-}
-
-h3.subtitle {
-	text-align: left;
-	font-style: italic;
-	font-size: 35px;
-	color: black;
-
-}
-
-h3.subsubtitle {
-	text-align: left;
-	font-style: italic;
-	font-size: 35px;
-	color: black;
-
-}
-
+/*--------------*/
+/* LAYOUT STUFF */
+/*--------------*/
 div.maincontainer {
 	margin: auto;
 	width: 88%;
@@ -86,4 +42,69 @@ div.maincontainer {
 
 .banner img {
 	width: 100%;
+}
+#header {
+	background: linear-gradient( 0deg, #000, #444 );
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    padding: 10px 10px 0;	
+}
+#header img {
+	width: 30px;
+}
+
+/*----------------------*/
+/* GENERAL TEXT STYLING */
+/*----------------------*/
+p.article {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+h2.title {
+	font-weight: 400;
+	font-style: italic;
+	letter-spacing: 20px;
+	text-align: center;
+	font-size: 80px;
+	color: black;
+
+}
+
+h3.subtitle {
+	text-align: left;
+	font-style: italic;
+	font-size: 35px;
+	color: black;
+
+}
+
+h3.subsubtitle {
+	text-align: left;
+	font-style: italic;
+	font-size: 35px;
+	color: black;
+
+}
+
+/*---------------*/
+/* LOADING STUFF */
+/*---------------*/
+.loading {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.1);
+	text-align: center;
+}
+.loading img {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
 }

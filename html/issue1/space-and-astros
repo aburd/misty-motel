@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link href='https://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'>
+	<link href='./css/article-stylesheet.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div class="maincontainer">
+	<section>
+	<h2 class="title">Space and Astros</h2>
+	<hr>
+	<hr>
+	<h3>Spectacular Photos Captured Near Pluto</h3>
+	<h4>by: Dr. Creston Grabme</h4>
+
+	<p class="article">Astronomers and macrobiologists were baffled and the entire world astounded previously this week when images of the absolute dumbest lifeforms anyone could have ever imagined were discovered by NASA’s unmanned Pluto-Kuiper belt mission Conquistador late Wednesday night.</p>
+
+	<p class="article">While appearing to have no discerning characteristics separating them from one another, Socks and his team of crack researchers known only to the public as Plutonian Unidentified Discoveries (often contracted in the press to P.U.D.), have conclusive photographic evidence that the hitherto-unknown beings come in all shapes and sizes.  When asked about clues as to their behavior, diet and general survival in the freezing vacuum of space, Socks could offer very little comparison to lifeforms on earth, citing a “seemingly inexplicable, dare I say primal drive to thrust forward at all times,” also making special note that they “seem to have little to no regard for their own safety nor the sanctity of what lays in their path.”</p>
+
+	<p class="article">“How these friggin’ idiots still manage to procreate is beyond our scope of comprehension,” Socks concluded, “but one thing’s for sure--- if Pluto’s the iceberg, this discovery is JUST the tip!”</p>
+
+	<img src="http://mistymotel.co.nf/assets/img/issues/banner1.png" alt="Space Dicks">
+	</sections>
+	</div>
+</body>
+</html>
